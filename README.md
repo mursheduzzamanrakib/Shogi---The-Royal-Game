@@ -1,5 +1,5 @@
 # Shogi---The-Royal-Game
-Basically Shogi is a Chess Game. The word "Shogi" comes from Japanese Language. It is a mastermind game which can develops human's intelligence. 
+Basically Shogi is a Chess Game. The word "Shogi" comes from Japanese Language. It is a mastermind game which can develop human's intelligence. 
 
 #How to use
 
